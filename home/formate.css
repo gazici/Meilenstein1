@@ -1,0 +1,8 @@
+p { font-size: 1.5em; }
+h1 { font-size: 2.5em; font-family: cursive; background-color: blue; text-align: center; }
+h2 { font-size: 2.2em; background-color: blueviolet; text-align: center; }
+h3 { font-size: 2.3em; }
+li { font-size: 1.7em; }
+li li { font-size: 1em; }
+tr { font-size: 1.7em; text-align: center }
+p { font-size: 1.5em; text-align: justify; font-family: sans-serif; }
